@@ -5,3 +5,4 @@ printf(" welcome");//prints the statement welcome
 printf(" to c");
 return 0;
 }
+//done ny changes
