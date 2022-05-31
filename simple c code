@@ -1,6 +1,10 @@
 #include<stdio.h>
 int main()  // indicates start of a program
 {
-printf(" welcome"); //prints the statement welcome
+printf(" welcome");//prints the statement welcome
+printf(" to c");
 return 0;
-}  //end of the  program
+}
+
+ //end of the  program
+
